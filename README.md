@@ -9,3 +9,5 @@ and here: http://www.lighthouselogic.com/deserialize-json-to-interface-without-c
 It's definitely a work in progress but you can see what's supported by looking at the tests.
 
 If you find something that is not supported, create a test for it and the code and send me a pull request.
+
+It's been published on nuget for convenience.
