@@ -7,7 +7,9 @@
     <Company>Lighthouse Logic</Company>
     <Description>Extension method for Newtonsoft to allow JObjests to behave like a specific interface (Duck Typing)</Description>
     <Copyright>2017</Copyright>
-    <PackageProjectUrl>https://github.com</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/sudsy/JsonDuckTyper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sudsy/JsonDuckTyper</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
