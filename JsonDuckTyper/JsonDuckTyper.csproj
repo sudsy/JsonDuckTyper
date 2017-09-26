@@ -1,7 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <Version>0.0.1</Version>
+    <Authors>sudsy</Authors>
+    <Company>Lighthouse Logic</Company>
+    <Description>Extension method for Newtonsoft to allow JObjests to behave like a specific interface (Duck Typing)</Description>
+    <Copyright>2017</Copyright>
+    <PackageProjectUrl>https://github.com</PackageProjectUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Core" Version="4.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+  </ItemGroup>
 
 </Project>
